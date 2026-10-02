@@ -1,0 +1,6 @@
+{
+  "name": "AI Super App",
+  "description": "Learn. Create. Code. Practice. Improve. A unified platform combining 15 powerful AI tools including Teacher, Typing Master, Math Solver, Code Helper, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
